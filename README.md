@@ -1,4 +1,4 @@
-# Programming Hero Batch-10 Assignment-03
+# Hockey
 
 ## Technologies used
 
